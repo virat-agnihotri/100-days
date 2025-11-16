@@ -1,3 +1,4 @@
 # 100-days
 100 day coding
-Author Virat Agnihotri
+<br>
+Author-Virat Agnihotri
